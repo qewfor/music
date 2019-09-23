@@ -1,0 +1,6 @@
+owner=328584333294043149
+prefix=q
+game=Break | qplay
+stayinchannel=true
+songinstatus=false
+token=NjI1NzI5OTY4NTI1Mjc5MjU0.XYjyjw.z2xdtKdwkMsIYo58f1dHdyaHUcQ
